@@ -29,6 +29,10 @@
             android:name=".Screen.SearchScreen.EditTextModule.EditTextSearchActivity"
             android:label="@string/title_activity_edit_text_search" >
         </activity>
+        <activity
+            android:name=".Screen.RangeSeekBarScreen.RangeSeekBarActivity"
+            android:label="@string/title_activity_range_seek_bar" >
+        </activity>
     </application>
 
 </manifest>
