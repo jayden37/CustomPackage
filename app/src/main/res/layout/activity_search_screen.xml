@@ -2,10 +2,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="jayden.custompackage.Screen.SearchScreen.SearchScreenActivity">
 
     <ListView
-        android:id="@+id/activity_main_listview"
+        android:id="@+id/activity_search_screen_listview"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
